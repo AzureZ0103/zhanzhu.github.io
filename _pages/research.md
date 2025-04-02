@@ -1,3 +1,14 @@
+---
+layout: archive
+#title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 ## Working papers
 
 #### [**Ekici's Reclaim-proof Allocations Revisited**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983814), Qianfeng Tang and **Zhan Zhu**, 2024
