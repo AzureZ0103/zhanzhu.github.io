@@ -12,5 +12,5 @@ I am **Zhan Zhu**, a first-year Masters student at School of Economics, Shanghai
 
 My research interests include **Behavioral and Experimental Economics** and **Microeconomic Theory**.
 
-[Email](mailto:zhuzhan0103@outlook.com) zhuzhan0103@outlook.com
+[zhuzhan0103@outlook.com](mailto:zhuzhan0103@outlook.com) 
 
